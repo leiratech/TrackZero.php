@@ -1,18 +1,18 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "LEIRA Technologies, LLC./TrackZero",
     "type": "library",
-    "description": ":package_description",
+    "description": "TZ Desc Here",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "LEIRA Technologies, LLC.",
+        "TrackZero"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/LEIRA Technologies, LLC./TrackZero",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Adel Alzubeir",
+            "email": "publisher@trackzero.io",
+            "homepage": "https://www.trackzero.io",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "leira\\trackzero\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\": "tests"
+            "leira\\trackzero\\": "tests"
         }
     },
     "scripts": {
