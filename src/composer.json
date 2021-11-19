@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "name":"leira/trackzero",
+    "description":"Official TrackZero SDK for PHP",
+    "keywords": [
+        "LEIRA Technologies",
+        "TrackZero",
+        "Track Zero"
+    ],
+    "homepage": "https://github.com/leiratech/trackzero.php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LEIRA Technologies, LLC.",
+            "email": "support@trackzero.io",
+            "homepage": "https://www.trackzero.io",
+            "role": "Developer"
+        }
+    ],
+    "require":{
+        "php":">=7.2"
+    }
+}
